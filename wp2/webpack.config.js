@@ -11,11 +11,11 @@ module.exports = {
     watch: true,
     // devtool:'source-map',
     entry: {
-        index: './src/index.js'
+        index: '../src/index.js'
     },
     output:{
         filename: "[name].js",
-        path: path.resolve(__dirname, 'dist'),
+        path: path.resolve(__dirname, 'w2dist'),
     },
     plugins: [
 		// new webpack.optimize.ModuleConcatenationPlugin()

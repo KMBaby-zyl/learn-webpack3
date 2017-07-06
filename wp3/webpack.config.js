@@ -10,11 +10,11 @@ const webpack = require('webpack');
 module.exports = {
     watch: true,
     entry: {
-        index: './src/index.js'
+        index: '../src/index.js'
     },
     output:{
         filename: "[name].js",
-        path: path.resolve(__dirname, 'dist'),
+        path: path.resolve(__dirname, 'w3dist'),
     },
     plugins: [
 		new webpack.optimize.ModuleConcatenationPlugin()
