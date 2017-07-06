@@ -1,0 +1,22 @@
+{
+  "name": "learn-webpack3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KMBaby-zyl/learn-webpack3.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "kmbaby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KMBaby-zyl/learn-webpack3/issues"
+  },
+  "homepage": "https://github.com/KMBaby-zyl/learn-webpack3#readme"
+}
