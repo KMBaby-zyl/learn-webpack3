@@ -17,7 +17,7 @@ module.exports = {
         path: path.resolve(__dirname, 'w3dist'),
     },
     plugins: [
-		new webpack.optimize.ModuleConcatenationPlugin()
-	]
+		  new webpack.optimize.ModuleConcatenationPlugin()
+	  ]
 }
 

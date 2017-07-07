@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "w2" : "cd wp2 && webpack",
-    "w3" : "cd wp3 && webpack"
+    "w2" : "cd wp2 && tnpm run  start",
+    "w3" : "cd wp3 && tnpm run  start"
   },
   "repository": {
     "type": "git",
